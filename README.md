@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Hunter-tec
+- 👀 I’m interested in programming and 3D objects and also physical objects
+- 🌱 I’m currently learning programming
